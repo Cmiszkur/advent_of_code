@@ -1,4 +1,4 @@
-const txt: string = await Deno.readTextFile('./1/input.txt');
+const txt: string = await Deno.readTextFile('./input.txt');
 const arr: string[] = txt.split('\n');
 //Delete last empty new line
 arr.pop();
@@ -13,9 +13,9 @@ arr.forEach((item) => {
 });
 
 // 1258579 is correct
-console.log(calculatePartOne(arr1, arr2));
+console.log(`Part one answer: ${calculatePartOne(arr1, arr2)}`);
 // 23981443 is correct
-console.log(calculatePartTwo(arr1, arr2));
+console.log(`Part two answer: ${calculatePartTwo(arr1, arr2)}`);
 
 function calculatePartOne(arr1: number[], arr2: number[]): number {
     const copiedArr1 = [...arr1];
