@@ -61,10 +61,6 @@ While this is primarily my personal project, feel free to:
 - Open an issue if you find a bug or have a suggestion.
 - Fork this repository and share your solutions!
 
-## License
-
-This project is licensed under the MIT License. Feel free to use the code however you like. See the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 Thank you to [Eric Wastl](https://twitter.com/ericwastl) for creating and maintaining Advent of Code!
