@@ -22,8 +22,7 @@ Each day's solution will be organized in its own folder following this structure
 ...
 ```
 
-- **`part1.ts`**: Solution for part 1 of the day's challenge.
-- **`part2.ts`**: Solution for part 2 of the day's challenge.
+- **`main.ts`**: Solution for part 1 and part 2 of the day's challenge.
 - **`input.txt`**: Input data for the challenge.
 - **`README.md`**: Optional notes or explanations for the day's challenge.
 
